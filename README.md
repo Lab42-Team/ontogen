@@ -1,5 +1,6 @@
 # OntoGen
-A command-line software called **OntoGen** for analysis and transformation of source spreadsheet data to ontology.
+
+A command-line software called **OntoGen** for analysis and transformation of source spreadsheet data (CSV) to ontology (OWL/XML).
 
 ## Version
 
